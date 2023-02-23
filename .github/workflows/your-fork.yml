@@ -1,4 +1,4 @@
-name: Your Fork
+name: ckbitra/learn-terraform-github-actions
 
 on:
   pull_request_target:
